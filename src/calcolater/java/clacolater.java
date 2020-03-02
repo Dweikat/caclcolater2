@@ -1,4 +1,4 @@
-package calcolater;
+package calcolater.java;
 
 public class clacolater {
 	public static void main ( String args []) { 

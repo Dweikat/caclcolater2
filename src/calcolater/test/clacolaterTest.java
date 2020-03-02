@@ -1,8 +1,11 @@
-package calcolater;
+package calcolater.test;
 
 import static org.junit.Assert.*;
+import calcolater.java.*;
 
 import org.junit.Test;
+
+//import calcolater.clacolater;
 
 public class clacolaterTest {
 	
