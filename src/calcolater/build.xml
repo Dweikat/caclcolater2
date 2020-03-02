@@ -7,7 +7,7 @@
 	<property  name="result.testclasses.dir" location="${result.dir}/testclasses"/>
 	
 	
-	
+	 
 	
 	<target name="compile">
 	     <mkdir dir="${result.javaclasses.dir}"/>
