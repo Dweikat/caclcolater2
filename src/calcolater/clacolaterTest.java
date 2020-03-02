@@ -5,30 +5,44 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class clacolaterTest {
+	
+	
+	
 
 	@Test
 	public void testMain() {
-		fail("Not yet implemented");
+	
+		
+		
 	}
 
 	@Test
 	public void testAdd() {
-		fail("Not yet implemented");
+		double  a=  clacolater.sub(5, 1);
+		assertTrue(a==4);
+		
+		
 	}
 
 	@Test
 	public void testSub() {
-		fail("Not yet implemented");
+		double  a=  clacolater.sub(5, 1);
+		assertTrue(a==5);
+		
 	}
 
 	@Test
 	public void testMulti() {
-		fail("Not yet implemented");
+		double  a=  clacolater.multi(5, 1);
+		assertTrue(a==5);
+		
 	}
 
 	@Test
 	public void testDiv() {
-		fail("Not yet implemented");
+		double  a=  clacolater.div(5, 1);
+		assertTrue(a==5);
+		
 	}
 
 }
